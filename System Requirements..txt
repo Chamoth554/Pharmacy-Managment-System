@@ -1,0 +1,22 @@
+___ Pharmacy Manegment Application System Requirements__
+=====================================
+
+~Hardware Minimum requirements~
+
+             *Processor 2.40 GHz Intel core 2 duo Processor.
+             *Memory 2 GB RAM.
+             *Hard disk space Minimum 1GB free disk space or higher
+             *Display 1024x768 or resolutions(best fit for MS access)
+             *Printer Laser printer ( For print Repots etc..)
+=====================================
+~Software Minimum Requirements~
+
+           *Operating system Microsoft Windows  7,8,10,11
+             (All supporting Os for MS ACESS)
+           *Microsoft Office Package With Microsoft Access software.
+
+=====================================
+CA Software Tecnology (Pvt) Ltd.
+Pharmacy Manegment System Version 1.0 @2022
+all Right Reserved.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  

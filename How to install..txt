@@ -1,0 +1,13 @@
+Extract data file after completeing survey and getting password For Loging Pharmacy Manegment System.
+=====================================
+~~ How To Install ~~
+
+1. Extract .Rar File 
+2. Click Pharmacy Manegment System icon.
+3. Launch the application and Working It.
+
+=====================================
+CA Software Tecnology (Pvt).Ltd
+Pharmacy Manegment System Version 1.0 @2022
+all Right Reserved.
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
